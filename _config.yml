@@ -1,11 +1,11 @@
 # Site settings
-name: Dzplus
-email: Dzplus@163.com
-author: Dzplus
+name: dzplus
+email: dzplus@163.com
+author: dzplus
 url: https://dzplus.github.io/
 resume_site: https://dzplus.github.io/
 github: https://github.com/dzplus
-baseurl: "/Dzplus"
+baseurl: ""
 description: Be Care !
 meta_description: 瞎鸡儿写
 motto: It's our wits that make us men.
